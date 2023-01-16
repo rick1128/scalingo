@@ -30,6 +30,11 @@
             "required": true,
             "value":""
         },
+        "TG_BOT_USERNAME": {
+            "description": "ضع معرف البوت المساعد الخاص بك بدون @",
+            "required": true,
+            "value":""
+        },
         "TZ": {
             "description": "ضع هنا المنطقة الزمنيه الخاصه بك القارة وعاصمه بلدك",
             "required": true,
